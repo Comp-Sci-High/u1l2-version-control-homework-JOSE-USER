@@ -1,7 +1,7 @@
 // Version Control Assessment
 // 1. Explain what version control is.
 // Write your answer as a string and store it in the variable below:
-let versionControlExplanation = "";
+let versionControlExplanation = "Version control is the act of seperating changes of a website into indivisual versions of a website to be optimize website changes and more. ";
 
 console.log("What is version control?");
 console.log(versionControlExplanation); 
