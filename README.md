@@ -2,4 +2,4 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16051992&assignment_repo_type=AssignmentRepo)
 # Version Control & Git Practice
 Complete the instructions listed as comments in script.js. They will help you review version control concepts and prepare for tomorrow's entrance ticket.
-Make sure to push changes to submit the assignment!
+Make sure to push changes to submit the assignment.
